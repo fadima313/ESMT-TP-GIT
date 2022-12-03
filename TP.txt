@@ -1,1 +1,7 @@
- 
+ git init (Commande pour initialiser le projet)
+git add --all (Commande pour ajouter les fichiers ou indexer)
+git commit -m "Creation du fichier TP.txt" ( Commande pour enregistrer les modifications )
+git remote add origin <url>
+git push -u origin <branche>
+git 
+ git push --delete origin recovery(supprimer la branche recovery sur le depot)
